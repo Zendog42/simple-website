@@ -1,5 +1,6 @@
 # simple-website
 Phonetic alphabet website
+
 In radio communication it is not easy to distinguish the sound of individual letters.
 To overcome this problem people use phonetic alphabets where each letter is replaced by a word.
 Over radio it is much easier to distinguish the words Delta and Tango rather than the letters D and T.
